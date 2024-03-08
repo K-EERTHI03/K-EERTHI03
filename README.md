@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @K-EERTHI03
-- 👀 I’m interested in Artificial Intelligence,Machine learning,Data Science and Full Stack development
-- 🌱 I’m currently learning  Genrative-AI,TensorFlow for deep learning, and JavaScript for Full Stack Development
-- 💞️ I’m looking to collaborate on open-source AI projects and Full Stack projects
-- 📫 How to reach me  You can reach me at my email keerthikagangatharan@gmail.com 
--  😄 Pronouns: She
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+-👋 Hi, @K-EERTHI03!
+
+-👀 Interests: I’m captivated by the realms of Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development. Whether it’s training neural networks or crafting elegant web interfaces, I thrive on turning ideas into reality.
+
+-🌱 Learning Journey: Currently, I’m immersing myself in the magic of Generative AI—unleashing creativity through algorithms. Simultaneously, I’m diving deep into TensorFlow for robust deep learning models. And hey, JavaScript is my trusty sidekick as I explore the world of Full Stack Development.
+
+-💞 Collaboration: Open-source projects are my jam! Let’s collaborate on AI initiatives or Full Stack endeavors. Whether it’s contributing code, brainstorming ideas, or optimizing algorithms, count me in.
+
+-📫 Contact: Feel free to drop me an email at keerthikagangatharan@gmail.com. Let’s chat about tech, share insights, or discuss the latest AI breakthroughs.
+
+-😄 Pronouns: She/her. Let’s celebrate diversity and respect pronouns!
+
+-⚡ Fun Fact: When I’m not coding, I transform into a Rubik’s cube wizard. Solving it in under a minute? Challenge accepted! 🧩
+
+-Looking forward to connecting with fellow tech enthusiasts like you! 🚀
+
+
+
+
 
 
 
