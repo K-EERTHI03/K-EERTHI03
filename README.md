@@ -6,7 +6,7 @@
 
 -💞 Collaboration: Open-source projects are my passion! I'm all in for AI initiatives or Full Stack endeavors. Whether it's contributing code, brainstorming creative ideas, or fine-tuning algorithms, consider me your teammate. Let's build something remarkable together! 🚀
 
--📫 Contact: Feel free to drop me an email at keerthikagangatharan@gmail.com. Let’s chat about tech, share insights, or discuss the latest AI breakthroughs.
+-📫 Contact: Feel free to drop me an email at keerthikagangatharan@gmail.com on or Linkedin [www.linkedin.com/in/keerthika-g-161365215] Let’s chat about tech, share insights, or discuss the latest AI breakthroughs.
 
 -😄 Pronouns: She/her. Let’s celebrate diversity and respect pronouns!
 
