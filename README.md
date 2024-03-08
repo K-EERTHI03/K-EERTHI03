@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence,Machine learning,Data Science and Full Stack development
 - 🌱 I’m currently learning  Genrative-AI,TensorFlow for deep learning, and JavaScript for Full Stack Development
 - 💞️ I’m looking to collaborate on open-source AI projects and Full Stack projects
-- 📫 How to reach me  You can reach me at my email keerthikagangatharan@gmail.com or on LinkedIn 
+- 📫 How to reach me  You can reach me at my email keerthikagangatharan@gmail.com 
 -  😄 Pronouns: She
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
