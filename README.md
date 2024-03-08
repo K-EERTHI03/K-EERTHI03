@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K-EERTHI03
 - 👀 I’m interested in Artificial Intelligence,Machine learning,Data Science and Full Stack development
-- 🌱 I’m currently learning  Python, TensorFlow for deep learning, and JavaScript for Full Stack Development
+- 🌱 I’m currently learning  Genrative-AI,TensorFlow for deep learning, and JavaScript for Full Stack Development
 - 💞️ I’m looking to collaborate on open-source AI projects and Full Stack projects
 - 📫 How to reach me  You can reach me at my email keerthikagangatharan@gmail.com or on LinkedIn 
 -  😄 Pronouns: She
