@@ -4,7 +4,7 @@
 
 -🌱 Learning Journey: Currently, I’m immersing myself in the magic of Generative AI—unleashing creativity through algorithms. Simultaneously, I’m diving deep into TensorFlow for robust deep learning models. And hey, JavaScript is my trusty sidekick as I explore the world of Full Stack Development.
 
--💞 Collaboration: Open-source projects are my jam! Let’s collaborate on AI initiatives or Full Stack endeavors. Whether it’s contributing code, brainstorming ideas, or optimizing algorithms, count me in.
+-💞 Collaboration: Open-source projects are my passion! I'm all in for AI initiatives or Full Stack endeavors. Whether it's contributing code, brainstorming creative ideas, or fine-tuning algorithms, consider me your teammate. Let's build something remarkable together! 🚀
 
 -📫 Contact: Feel free to drop me an email at keerthikagangatharan@gmail.com. Let’s chat about tech, share insights, or discuss the latest AI breakthroughs.
 
